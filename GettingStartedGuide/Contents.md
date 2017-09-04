@@ -19,3 +19,9 @@
      13. Collections
      14. Lamda Expressions
      15. Reflection
+     
+  Resource:  
+   http://docs.oracle.com/javase/8/
+   
+   http://docs.oracle.com/javase/tutorial/tutorialLearningPaths.html
+       

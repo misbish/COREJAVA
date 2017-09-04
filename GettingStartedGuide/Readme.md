@@ -1,9 +1,5 @@
 **Getting Started**
 
-Resource:
-    http://docs.oracle.com/javase/8/
-    http://docs.oracle.com/javase/tutorial/tutorialLearningPaths.html
-  
 
   Set Up Environment:
     
